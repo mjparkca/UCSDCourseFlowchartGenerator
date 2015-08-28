@@ -1,0 +1,4 @@
+Add GUI
+Use graphviz binding
+Use cabal to resolve dependencies (hxt, graphviz)
+Organize input into major-subject code-course description URL triples
